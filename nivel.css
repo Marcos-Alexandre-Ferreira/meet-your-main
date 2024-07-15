@@ -1,0 +1,29 @@
+#izi, #ok, #hard {
+    color: #fff;
+    border-radius:  3px solid #fff;
+    width: 160px;
+    text-decoration: none;
+    background-color: #004d80;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 2px #000;
+}
+#buttonSim {
+    color: #fff;
+    border-radius:  3px solid #fff;
+    width: 160px;
+    text-decoration: none;
+    background-color: #008000;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 2px #000;
+}
+body {
+    background-color: #000080;
+    align-items: center;
+    text-align: center;
+    text-align: center;
+    margin-top: 280px;
+}
+#nivel {
+    text-align: center;
+    color: #faebd7;    
+}
