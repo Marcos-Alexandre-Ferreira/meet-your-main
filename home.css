@@ -1,0 +1,34 @@
+#pergunta1, #respostas1 {
+    text-align: center;
+    color: #faebd7;    
+}
+
+#pergunta1 {
+    margin-top: 280px;
+}
+
+#buttonNão {
+    color: #fff;
+    border-radius:  3px solid #fff;
+    width: 160px;
+    text-decoration: none;
+    background-color: rgb(114, 30, 30);
+    padding: 5px 10px;
+    box-shadow: 2px 2px 2px #000;
+}
+
+#buttonSim {
+    color: #fff;
+    border-radius:  3px solid #fff;
+    width: 160px;
+    text-decoration: none;
+    background-color: #008000;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 2px #000;
+}
+
+body {
+    background-color: #000080;
+    align-items: center;
+    justify-content: center;
+}
