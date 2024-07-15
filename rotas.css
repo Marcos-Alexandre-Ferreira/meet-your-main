@@ -1,0 +1,19 @@
+#escolha-posição {
+    text-align: center;
+    margin-top: 280px;
+    color: #faebd7; 
+}
+body {
+    background-color: #000080;
+    align-items: center;
+    text-align: center;
+}
+#jg, #top, #mid, #adc, #sup {
+    color: #fff;
+    border-radius:  3px solid #fff;
+    width: 160px;
+    text-decoration: none;
+    background-color: #004d80;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 2px #000;
+}
